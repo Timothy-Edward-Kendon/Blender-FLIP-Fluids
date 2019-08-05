@@ -28,6 +28,7 @@ SOFTWARE.
 #include <stdexcept>
 #include <sstream>
 #include <vector>
+#include <algorithm>
 
 struct GridIndex {
     int i, j, k;
